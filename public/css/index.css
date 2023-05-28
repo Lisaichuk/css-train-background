@@ -114,12 +114,12 @@
 
 .task23 {
   background-image: url('/img/img-400x200.jpg');
-  background-size: cover;
+  background-size: contain;
 }
 
 .task24 {
   background-image: url('/img/img-400x200.jpg');
-  background-size: contain;
+  background-size: cover;
 }
 
 .task25 {
